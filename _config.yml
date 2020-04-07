@@ -1,11 +1,11 @@
 # Site settings
 author: Mark Stabler
-title: 
+title: Flatiron School Blogs
 header-img: img/home-bg.png
 email: mark@markstabler.com
 copyright_name: Mark Stabler
 description: > # this means to ignore newlines until "baseurl:"
-  
+  School Projects and Other Coding Mishaps
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  marcon29
