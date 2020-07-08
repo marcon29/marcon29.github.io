@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra’s “My Way” Was Much Better Than My Way"
-date:       2020-07-06 23:57:55 +0000
+title:      "Sinatra’s “My Way” Was Much Better Than My Way with Sinatra"
+date:       2020-07-06 19:57:57 -0400
 permalink:  sinatra_s_my_way_was_much_better_than_my_way
 ---
 
